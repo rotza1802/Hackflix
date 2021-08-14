@@ -1,0 +1,41 @@
+body {
+  background-color: #ece8da;
+}
+
+.App {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: inherit;
+}
+
+.header {
+  background-image: url("https://www.wallpapertip.com/wmimgs/41-410292_black-panther-wallpaper-4k.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 15rem;
+}
+
+.search {
+  border: none;
+  width: 20rem;
+}
+
+.rating {
+  font-size: 0.5rem;
+  color: rgb(255, 215, 0);
+}
+
+.movieId {
+  height: 40rem;
+}
+
+.indivialMovie:hover {
+  transform: translateY(-5px);
+}
